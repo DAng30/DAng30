@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DAng30
+- 👋 Hi, I’m @DarrenDaDream
 - 👀 I’m interested in learning about how to world works
 - 🌱 I’m currently learning how to fix cars
 - 💞️ I’m looking to collaborate on literally anything that catches my attention
-- 📫 How to reach me @DAng30
+- 📫 How to reach me @@DarrenDaDream
 
 <!---
 DAng30/DAng30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
